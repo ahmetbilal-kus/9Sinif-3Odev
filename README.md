@@ -35,11 +35,11 @@ Bulduğum ikinci dereceden denklem (x= konum, t=zaman, *x= at^2+b*t + c*) şu ş
 
 Yukarıdaki örneği kullanarak **kendi ölçümlerinizle** bir tablo oluşturun (Aşağıda yeni bir tablo oluşturun ve yukarıdaki tabloya 3-4 tane kendi ölçümünü ekleyiniz.) Kullandığınız Google Sheet için [buraya](https://docs.google.com/spreadsheets/d/1hDt0YnH6Gie-lFSSESaFqTAwuKrx7jY5Fn_By1a9l30/edit?usp=sharing) link verin (Google Sheet herkese açık erişimli olsun.) 
 
-a) Denkleminizi **buraya yazınız:1,44E-0,4 + 1,83x  + -1,23x^2**. Sizce a, b, ve c'nin fiziksel anlamları ne olabilir? (Yardım: bir tanesi ivme ile ilgili, bir tanesi ilk hız ile, diğeri konum ile ilgili)**a, parabolün kollarının darlığını/genişliğini ve yönünü gösterir. b, kolların ne kadar sağda ya da solda olduğunu gösterir. c, kolların ne kadar aşağıda/yukarıda olduğunu gösterir**.  Sizce niçin a'nın değeri negatif? 
+a) Denkleminizi **buraya yazınız:1,44E-0,4 + 1,83x  + -1,23x^2**. Sizce a, b, ve c'nin fiziksel anlamları ne olabilir? (Yardım: bir tanesi ivme ile ilgili, bir tanesi ilk hız ile, diğeri konum ile ilgili)**a, parabolün kollarının darlığını/genişliğini ve yönünü gösterir. b, kolların ne kadar sağda ya da solda olduğunu gösterir. c, kolların ne kadar aşağıda/yukarıda olduğunu gösterir**.  Sizce niçin a'nın değeri negatif? **Bu yapılan deneyde tepe noktası yukarıda, kollar da aşağıya doğru olduğu için negatiftir.**
 
-b) Hava sürtünmesini ihmal edersek, bu harakette ivme sabit midir? 
+b) Hava sürtünmesini ihmal edersek, bu harakette ivme sabit midir? **Hayır**
 
-c) Video'daki cismin atılış hızı farklı olsaydı (diğer herşey aynı, kütle, yüzey, vb. Hava sürtünmesini ihmal edin), sizce formülde hangi terimler değişecekti? (a, b veya c) 
+c) Video'daki cismin atılış hızı farklı olsaydı (diğer herşey aynı, kütle, yüzey, vb. Hava sürtünmesini ihmal edin), sizce formülde hangi terimler değişecekti? (a, b veya c) **Bence a ve b terimleri değişirdi.**
 
 # Bölüm 2 (İvmeli Hareketin Ortalama Hız-Zaman Grafiği)
 Bu sefer aynı cismin zaman-hız (ortalama hız) grafiğini çizeceksiniz. Bunun için *1.Bölümde* aldığımız sonuçları kullanacağız. Ortalama hızı bulmak için derste öğrendiğimiz ortalama hız formülünü (Delta x/ Delta t) kullanacağız. Google Sheet kullanarak hız-zaman grafiği nasıl çizildiğini anlamak için  [bu videoya](https://www.youtube.com/watch?v=67IsHRmcmfE&t) bakınız. Ortalama hız-zaman grafiğini çizilirken, ortalama hıza karşılık gelen zamanı nasıl belirleyeceksin? Bir andaki  ortalama hızı hesaplarken o noktadan önceki ve o noktadan sonraki (t,x) noktalarını kullanacaksın. Bu yüzden konum grafiğimde 11 veri noktam varken, hız-zaman grafiğinde veri noktam 9'a düştü. (İlk baştaki ve son baştaki noktalar için ortalama hızı hesaplayamam çünkü başlangıç noktasından önce ve bitiş noktasından sonraki (t,x) bilgilerine sahip değilim.)
