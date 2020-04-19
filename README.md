@@ -35,7 +35,7 @@ Bulduğum ikinci dereceden denklem (x= konum, t=zaman, *x= at^2+b*t + c*) şu ş
 
 Yukarıdaki örneği kullanarak **kendi ölçümlerinizle** bir tablo oluşturun (Aşağıda yeni bir tablo oluşturun ve yukarıdaki tabloya 3-4 tane kendi ölçümünü ekleyiniz.) Kullandığınız Google Sheet için [buraya](https://docs.google.com/spreadsheets/d/1hDt0YnH6Gie-lFSSESaFqTAwuKrx7jY5Fn_By1a9l30/edit?usp=sharing) link verin (Google Sheet herkese açık erişimli olsun.) 
 
-a) Denkleminizi **buraya yazınız:1,44E-0,4 + 1,83x  + -1,23x^2**. Sizce a, b, ve c'nin fiziksel anlamları ne olabilir? (Yardım: bir tanesi ivme ile ilgili, bir tanesi ilk hız ile, diğeri konum ile ilgili).  Sizce niçin a'nın değeri negatif? 
+a) Denkleminizi **buraya yazınız:1,44E-0,4 + 1,83x  + -1,23x^2**. Sizce a, b, ve c'nin fiziksel anlamları ne olabilir? (Yardım: bir tanesi ivme ile ilgili, bir tanesi ilk hız ile, diğeri konum ile ilgili)**a, parabolün kollarının darlığını/genişliğini ve yönünü gösterir. b, kolların ne kadar sağda ya da solda olduğunu gösterir. c, kolların ne kadar aşağıda/yukarıda olduğunu gösterir**.  Sizce niçin a'nın değeri negatif? 
 
 b) Hava sürtünmesini ihmal edersek, bu harakette ivme sabit midir? 
 
