@@ -56,7 +56,7 @@ kullandım. Konum-zaman grafiği 2.dereceden bir denklem iken, hız-zaman grafi�
 
 # Bölüm 3 (Hala Beni Öldürmeyi Düşünmüyorsan)
 1) Bu deneyde ölçüm hatalarım var. Zamandaki ölçüm hatam sizce kaç ms (mili saniye) nedir? **1-2 ms** Konumdaki ölçüm hatam sizce kaç cm'dir? 
-**1-2 cm**
+**0.1-0.2 cm**
 2) Acaba hiç grafik çizmeden sürtünme katsayısını bulabilir miydim?  (Cevap: Evet). 
 Yardım:
 * Düzgün ivmelenen bir cisim için alınan yol formülü x = (ilk hız+ son hız)/2*t, burdan cismin ilk hızını bulunuz.  **Formülü kullanarak ilk hızı 1.65 m/s buldum.** 
